@@ -13,7 +13,7 @@ SSD (Single Shot MultiBox Detector)
 
 Each model is trained and tested using the same dataset and evaluation metrics to ensure a fair comparison.
 
-📂 Repository Structure
+# 📂 Repository Structure
 graphql
 Copy
 Edit
@@ -23,16 +23,8 @@ Object-Detection-Algorithm-Comparison/
 ├── ssd/                 # SSD implementation and results
 ├── results/             # Evaluation results and visual comparisons
 └── README.md            # Project documentation
-⚙️ Requirements
-Install required Python packages:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Note: Each model folder may include its own environment setup or instructions.
-
-📊 Evaluation Metrics
+# 📊 Evaluation Metrics
 Precision & Recall
 
 Confusion Matrix
@@ -43,8 +35,8 @@ Inference Speed
 
 Visual results and metric comparisons are available in the results/ directory.
 
-📁 Dataset
-The dataset used in this project includes various classes such as cars, trucks, and motorcycles. It is formatted in the COCO annotation style. Due to file size, the dataset is hosted externally:
+# 📁 Dataset
+The dataset used in this project includes various classes such as cars, trucks, buses, ambulances and motorcycles. Due to file size, the dataset is hosted externally:
 
 🔗 Download Dataset (Google Drive)
 
