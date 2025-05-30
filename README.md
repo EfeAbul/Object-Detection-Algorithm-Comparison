@@ -2,7 +2,7 @@
 
 This repository presents a comparative study of different object detection algorithms applied to a custom dataset. The aim is to evaluate the performance, accuracy, and practical usability of popular object detection models.
 
- Project Overview
+# Project Overview
 The project includes implementation and evaluation of the following object detection algorithms:
 
 YOLOv8
