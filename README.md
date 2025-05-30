@@ -2,7 +2,7 @@
 
 This repository presents a comparative study of different object detection algorithms applied to a custom dataset. The aim is to evaluate the performance, accuracy, and practical usability of popular object detection models.
 
-📌 Project Overview
+ Project Overview
 The project includes implementation and evaluation of the following object detection algorithms:
 
 YOLOv8
@@ -13,7 +13,7 @@ SSD (Single Shot MultiBox Detector)
 
 Each model is trained and tested using the same dataset and evaluation metrics to ensure a fair comparison.
 
-# 📂 Repository Structure
+# Repository Structure
 graphql
 Copy
 Edit
@@ -24,7 +24,7 @@ Object-Detection-Algorithm-Comparison/
 ├── results/             # Evaluation results and visual comparisons
 └── README.md            # Project documentation
 
-# 📊 Evaluation Metrics
+# Evaluation Metrics
 Precision & Recall
 
 Confusion Matrix
