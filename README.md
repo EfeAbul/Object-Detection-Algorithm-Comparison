@@ -35,15 +35,12 @@ Inference Speed
 
 Visual results and metric comparisons are available in the results/ directory.
 
-# 📁 Dataset
+#  Dataset
 The dataset used in this project includes various classes such as cars, trucks, buses, ambulances and motorcycles. Due to file size, the dataset is hosted externally:
 
-🔗 Download Dataset [(Google Drive)](https://drive.google.com/file/d/1tWEiju-FyDP79QaWj1TsLFSNc4QHoeRa/view?usp=sharing)
+Download Dataset [(Google Drive)](https://drive.google.com/file/d/1tWEiju-FyDP79QaWj1TsLFSNc4QHoeRa/view?usp=sharing)
 
 Place the dataset under a common data/ folder or as required by each model.
 
-🚀 Running the Models
-Each model's directory contains its own training and evaluation scripts. Please refer to the individual README files within those folders for usage instructions.
-
-📌 Goal
+# Goal
 The goal is to help researchers and practitioners quickly understand how different object detection models perform under similar conditions and choose the best-fit model for their needs.
